@@ -100,11 +100,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📄 License
-
-This project is open source under the [MIT License](LICENSE).
-
----
 
 ✅ **Happy Testing with Cypress!** 🌿
 
